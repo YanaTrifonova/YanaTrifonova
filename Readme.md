@@ -37,6 +37,7 @@ const me = {
         "Wrike, Inc.": {
             date: "Nov 2019 - Sep 2020",
             position: "Worked as a Dart / Angular Junior Front-end developer.",
+            
             responsibilities: `Our team developed and released customer-facing features 
                                in the “Wrike new experience” project. Developed new components
                                for dashboard filtering & rendering, tracking, also worked on 
@@ -45,6 +46,7 @@ const me = {
         "G-soft, LTD.": {
             date: "Sep 2019 - Nov 2019 ",
             position: "Took a position of Junior Front End developer in full-time internship.",
+            
             responsibilities: `Worked on code improvements and bug fixes. During internship 
                                I realised that software development is a new passion of mine.`
         }
