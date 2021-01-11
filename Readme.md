@@ -12,7 +12,8 @@ const me = {
         name: "Yana",
         surname: "Trifonova",
         dateOfBirth: "Sunday, August 22, 1993 1:45:00 AM GMT+03:00",
-        placeOfBirth: "Russia",
+        placeOfBirth: "Yaroslavl, Russia",
+        
         currentLocation: "Amsterdam, Netherlands",
     },
 
@@ -43,8 +44,9 @@ const me = {
                                for dashboard filtering & rendering, tracking, also worked on 
                                fixing production bugs and took part in architectural meetings.`
         },
+        
         "G-soft, LTD.": {
-            date: "Sep 2019 - Nov 2019 ",
+            date: "Sep 2019 - Nov 2019",
             position: "Took a position of Junior Front End developer in full-time internship.",
             
             responsibilities: `Worked on code improvements and bug fixes. During internship 
