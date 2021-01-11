@@ -57,6 +57,7 @@ const me = {
             degree: "Full stack JavaScript Developer",
             date: "Nov 2020 - Feb 2021"
         },
+        
         "Moscow Financial University under the Government of the Russian Federation": {
             degree: "Bachelor's degree in Economics",
             date: "2011 - 2015"
