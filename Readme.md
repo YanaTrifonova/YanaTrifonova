@@ -23,7 +23,7 @@ const me = {
         "React",
         "Redux",
         "Angular",
-        "Typescript",
+        "TypeScript",
         "Dart",
         "Node.js",
         "Git",
