@@ -66,7 +66,7 @@ const me = {
 
     contactMe: {
         email: "yana.trifonova.prof@gmail.com",
-        linkeIn: "https://www.linkedin.com/in/yana-trifonova-0920b3179/"
+        linkedIn: "https://www.linkedin.com/in/yana-trifonova-0920b3179/"
     },
 }
 ```
