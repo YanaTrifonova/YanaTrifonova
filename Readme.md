@@ -1,6 +1,6 @@
-# Hi, I am Yana Trifonova!
+<h1>Hi, I am Yana Trifonova!</h1>
 
-## Here is more information about me:
+<h3>Here is more information about me:</h3>
 
 ```javascript
 const me = {
@@ -73,4 +73,4 @@ const me = {
 }
 ```
 
-<h2> Welcome to my GitHub account!</h2>
+<h3>Welcome to my GitHub account!</h3>
