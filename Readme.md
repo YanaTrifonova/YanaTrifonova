@@ -73,4 +73,4 @@ const me = {
 }
 ```
 
-## Welcome to my GitHub account!
+<h2> Welcome to my GitHub account!</h2>
