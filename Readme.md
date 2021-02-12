@@ -62,7 +62,7 @@ const me = {
         
         "Moscow Financial University under the Government of the Russian Federation": {
             degree: "Bachelor's degree in Economics",
-            date: "2011 - 2015"
+            date: "Sep 2011 - Jul 2015"
         },
     },
 
