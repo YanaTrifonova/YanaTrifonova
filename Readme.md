@@ -29,6 +29,7 @@ const me = {
         "Node.js",
         "Git",
         "OOP",
+        "webpack",
         "Gulp",
         "Scrum",
         "Agile",
