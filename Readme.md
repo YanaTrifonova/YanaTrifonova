@@ -36,6 +36,11 @@ const me = {
     ],
 
     relativeWorkExperiens: {
+        "Weborama Nederland": {
+            date: "March 2021 - present",
+            position: "Front End Developer"
+        },
+        
         "Wrike, Inc.": {
             date: "Nov 2019 - Sep 2020",
             position: "Worked as a Dart / Angular Junior Front-end developer.",
