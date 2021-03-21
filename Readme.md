@@ -6,7 +6,7 @@
 const me = {
     greetings: "Hello there 👋",
 
-    whoAmI: "I am Front End Developer with a year of work experience and around two years of hands-on programming.",
+    whoAmI: "I am Frontend Developer with strong passion in coding.",
 
     aboutMe: {
         name: "Yana",
