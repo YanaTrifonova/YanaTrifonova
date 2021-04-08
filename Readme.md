@@ -62,7 +62,7 @@ const me = {
 
     education: {
         "Codaisseur": {
-            degree: "Full stack JavaScript Developer",
+            certificate: "Full stack JavaScript Developer",
             date: "Nov 2020 - Feb 2021"
         },
         
