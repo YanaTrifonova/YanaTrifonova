@@ -78,5 +78,10 @@ const me = {
     },
 }
 ```
+<h3>Badges that I have (not proud of them but jsut want to share them somewhere)</h3>
+
+  <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/yana_trifonova/badges/large" alt="codewars badge large" /></a>
+
+  <a href="https://stackoverflow.com/users/15431899/yana-trifonova"><img src="https://stackoverflow.com/users/flair/15431899.png" width="208" height="58" alt="profile for Yana Trifonova at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yana Trifonova at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <h3>Welcome to my GitHub account!</h3>
