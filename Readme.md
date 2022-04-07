@@ -36,27 +36,24 @@ const me = {
     ],
 
     relativeWorkExperiens: {
+        "BrainCreators": {
+            date: "Nov 2021 - preset",
+            position: "Developing Frontend for AI-powered Digital Inspecors with TypeScript and React"
+        },
+        
         "Weborama Nederland": {
-            date: "March 2021 - present",
-            position: "Front End Developer"
+            date: "Mar 2021 - Oct 2021",
+            position: "Frontend Developer worked mostly with React, tiny Node.js on the backend"
         },
         
         "Wrike, Inc.": {
             date: "Nov 2019 - Sep 2020",
-            position: "Worked as a Dart / Angular Junior Front-end developer.",
-            
-            responsibilities: `Our team developed and released customer-facing features 
-                               in the “Wrike new experience” project. Developed new components
-                               for dashboard filtering & rendering, tracking, also worked on 
-                               fixing production bugs and took part in architectural meetings.`
+            position: "Worked as a Dart / Angular Junior Frontend developer.",
         },
         
         "G-soft, LTD.": {
             date: "Sep 2019 - Nov 2019",
-            position: "Took a position of Junior Front End developer in full-time internship.",
-            
-            responsibilities: `Worked on code improvements and bug fixes. During internship 
-                               I realised that software development is a new passion of mine.`
+            position: "Took a position of Junior Frontend developer in full-time internship."
         }
     },
 
